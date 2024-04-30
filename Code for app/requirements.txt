@@ -1,0 +1,9 @@
+gradio==4.24.0
+requests==2.31.0
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+mediapipe==0.10.9
+pillow==10.2.0
+toml==0.10.
+grad-cam==1.5.0
